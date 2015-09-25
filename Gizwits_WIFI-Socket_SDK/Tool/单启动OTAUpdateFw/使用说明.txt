@@ -1,0 +1,5 @@
+OTA Update Fireware:通过手机APP无线升级NL6621模组的软件bin；
+1、保存“新版NL6621固件 nft_sd_uapsta.bin”到手机中
+2、手机连接到 NL6621的热点，或 同NL6621连接同一个路由器处于局域网中；
+3、打开 FirmwareUpgrade APK, 搜索到 NL6621的设备，选择准备更新的 bin文件 并确认；
+4、升级过程中请勿断电；
